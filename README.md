@@ -143,12 +143,25 @@ terraform destroy
 > AWS Console after `terraform apply`
 
 <!-- screenshots here after deployment -->
+- running servers
 ![EC2](screenshots/ec2-instance-running.png)
+
+- s3-bucket
 ![EC2](screenshots/remote-backend-s3.png)
+
+- FCT-vpc
 ![EC2](screenshots/FCT-vpc.png)
+
+- subnets
 ![EC2](screenshots/subnets.png)
+
+- route tables
 ![EC2](screenshots/FCT-public-rt.png)
+
+- internet gateway 
 ![EC2](screenshots/FCT-igw.png)
+
+- security group
 ![ec2](screenshots/FCT-sg.png)
 
 
