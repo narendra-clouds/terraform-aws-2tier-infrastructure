@@ -163,7 +163,7 @@ terraform destroy
 **Narendra Deshmukh**
 - GitHub: [@narendra-clouds](https://github.com/narendra-clouds)
 - Email: deshmukhn298@gmail.com
-- LinkedIn: [Connect with me](https://linkedin.com/in/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/narendra-deshmukh-cloud/)
 
 ---
 
