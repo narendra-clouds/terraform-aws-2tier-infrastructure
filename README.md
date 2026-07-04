@@ -142,7 +142,15 @@ terraform destroy
 
 > AWS Console after `terraform apply`
 
-<!-- Add your screenshots here after deployment -->
+<!-- screenshots here after deployment -->
+![EC2](screenshots/ec2-instance-running.png)
+![EC2](screenshots/remote-backend-s3.png)
+![EC2](screenshots/FCT-vpc.png)
+![EC2](screenshots/subnets.png)
+![EC2](screenshots/FCT-public-rt.png)
+![EC2](screenshots/FCT-igw.png)
+![ec2](screenshots/FCT-sg.png)
+
 
 ---
 
